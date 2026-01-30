@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Code, Search, Zap, Smartphone, Rocket, BarChart } from 'lucide-react'
+import { Code, Search, Zap } from 'lucide-react'
 
 const services = [
     {

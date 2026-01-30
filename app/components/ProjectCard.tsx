@@ -172,7 +172,7 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
                     {/* Action Buttons */}
                     <div className="flex flex-wrap gap-3 md:gap-4">
                         {project.liveUrl && (
-                            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="flex-1 min-w-[140px]">
+                            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="flex-1 min-w-35">
                                 <Link
                                     href={project.liveUrl}
                                     target="_blank"
@@ -185,7 +185,7 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
                             </motion.div>
                         )}
                         {project.githubUrl && (
-                            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="flex-1 min-w-[140px]">
+                            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="flex-1 min-w-35">
                                 <Link
                                     href={project.githubUrl}
                                     target="_blank"
