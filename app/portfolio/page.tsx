@@ -19,6 +19,16 @@ const projects = [
         image: "/images/TLC.png"
     },
     {
+        "title": "LeadNest",
+        "description": "A modern lead management SaaS platform that automates capture, qualification, and follow-up for service businesses.",
+        "problem": "Service businesses struggle to manage leads efficiently, often losing potential customers through missed follow-ups and disorganized communication.",
+        "solution": "Built a comprehensive platform with intelligent lead capture forms, automated qualification rules, email templates, follow-up scheduling, and a real‑time dashboard – all designed to convert more leads into paying customers.",
+        "technologies": ["Next.js 15", "TypeScript", "Tailwind CSS", "NextAuth.js", "PostgreSQL", "Framer Motion", "shadcn/ui", "Vercel"],
+        "liveUrl": "https://lead-nest-zeta.vercel.app/",
+        "githubUrl": "https://github.com/thewebstamp/lead-nest",
+        "image": "/images/dash.png"
+    },
+    {
         title: "Hair Stop - E-commerce Platform",
         description: "A complete hair products e-commerce platform with admin dashboard for managing inventory, orders, and business analytics.",
         problem: "Hair businesses need a robust online store with real-time inventory management and sales tracking capabilities.",
@@ -37,16 +47,6 @@ const projects = [
         liveUrl: "https://palmport.vercel.app/",
         githubUrl: "https://github.com/thewebstamp/palmport",
         image: "/images/PPW.png"
-    },
-    {
-        title: "Simple Contractor Website",
-        description: "A professional single-page website for a construction contractor with optimized contact forms and service showcases.",
-        problem: "Some businesses need an effective online presence to showcase services and generate leads but with little budget.",
-        solution: "Designed a budget-friendly responsive single-page website with service highlights, project gallery, and contact form integration.",
-        technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel", "Contact Forms", "Responsive Design"],
-        liveUrl: "https://first-choice-construction.vercel.app/",
-        githubUrl: "https://github.com/thewebstamp/first-choice-construction",
-        image: "/images/OPW.png"
     }
 ]
 
@@ -113,7 +113,7 @@ export default function Portfolio() {
                                 Ready to Build Something Amazing?
                             </h3>
                             <p className="text-gray-300 text-xl md:text-2xl font-light mb-8 max-w-2xl mx-auto font-body relative z-10">
-                                Let&apos;s collaborate on your next project - whether it&apos;s a website,
+                                Let&apos;s collaborate on your next project - whether it&apos;s a website, Saas,
                                 SEO optimization, or AI integration solution.
                             </p>
                             <div className="flex flex-col sm:flex-row gap-4 justify-center relative z-10">
