@@ -29,14 +29,14 @@ const projects = [
         "image": "/images/dash.png"
     },
     {
-        title: "Hair Stop - E-commerce Platform",
-        description: "A complete hair products e-commerce platform with admin dashboard for managing inventory, orders, and business analytics.",
-        problem: "Hair businesses need a robust online store with real-time inventory management and sales tracking capabilities.",
-        solution: "Developed a full-featured e-commerce solution with admin dashboard, CRUD operations, revenue tracking, and product performance analytics.",
-        technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Postgresql", "Admin Dashboard", "Analytics"],
-        liveUrl: "https://hairstop.shop/",
-        githubUrl: "https://github.com/thewebstamp/hairstop",
-        image: "/images/HSW.png"
+        "title": "Luxury Estates",
+        "description": "A premium real estate platform featuring cinematic scroll animations, advanced property search, and a complete admin management system for luxury property listings.",
+        "problem": "Luxury real estate agencies need a digital presence that matches the exclusivity of their properties, while efficiently managing listings, media assets, and client inquiries across multiple channels.",
+        "solution": "Engineered a sophisticated platform with GSAP-powered scroll storytelling, a comprehensive admin dashboard with CRUD operations, Cloudinary media management, and advanced filtering – all wrapped in a dark-themed, gold-accented luxury aesthetic.",
+        "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "GSAP", "Framer Motion", "NextAuth.js", "PostgreSQL (Neon)", "Cloudinary", "Lucide React", "Vercel"],
+        "liveUrl": "https://real-estate-vo.vercel.app//",
+        "githubUrl": "https://github.com/thewebstamp/real-estate-vo",
+        "image": "/images/luxury-estates.png"
     },
     {
         title: "Palm Port - Palm Oil Store",
