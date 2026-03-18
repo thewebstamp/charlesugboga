@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👨‍💻 Charles Ugboga – Portfolio Website
 
-## Getting Started
+A modern developer portfolio showcasing my projects, skills, and experience in building full-stack web applications and real-world business solutions.
 
-First, run the development server:
+🌐 **Live Site:** https://charlesugboga.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio is designed to present my work, highlight my technical expertise, and demonstrate my ability to build scalable, user-focused applications.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It features selected projects ranging from **real client work** to **advanced product concepts**.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Purpose
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Showcase my best projects  
+- Demonstrate full-stack development skills  
+- Highlight real-world problem solving  
+- Provide a central hub for recruiters and clients  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ✨ Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 📂 Project showcase with detailed case studies  
+- ⚡ Fast, responsive, and modern UI  
+- 🎨 Clean and professional design  
+- 📱 Mobile-first experience  
+- 🔗 Direct access to live demos and repositories  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js  
+- **Language:** TypeScript  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Deployment:** Vercel  
+
+---
+
+## 🧠 Highlighted Projects
+
+### 🌿 Taylor’s Lawn Care
+A real business website built to attract customers and improve local visibility.
+
+### 🚀 LeadNest
+A SaaS platform for automating lead capture, qualification, and follow-ups.
+
+### 🏡 Luxury Estates
+A premium real estate platform with cinematic animations and admin system.
+
+### 🌴 Palm Port
+A full-stack e-commerce solution for a palm oil business with inventory management.
+
+---
+
+## 👨‍💻 About Me
+
+I am a full-stack developer focused on building **high-performance, scalable, and user-centric web applications**.
+
+I enjoy solving real-world problems through technology and creating products that deliver measurable value.
+
+---
+
+## 📈 What This Portfolio Demonstrates
+
+- Strong frontend and UI/UX skills  
+- Full-stack application development  
+- Real-world client project experience  
+- Product thinking and system design  
+
+---
+
+## 🔮 Future Improvements
+
+- Blog / technical writing section  
+- Case study deep-dives  
+- More interactive project demos  
+
+---
+
+## 📄 License
+
+This project is for personal portfolio use.
